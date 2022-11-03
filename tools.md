@@ -15,6 +15,9 @@ https://editor.p5js.org/
 
 This is a quick and efficient way to code in javascript with p5.  The webeditor has it all set up and students can start drawing shapes on the canvas right away.  You can edit the HTML and CSS files but it is not necessary to get started.  
 
+## Compare and contrast
+Both of these tools are great and useful in both intro and more advanced CS class.  I use them with both my intro and AP-CSP classes. Overall I think the code.org app lab is better getting a working app that looks a bit more polished and refined.  The p5 web editor might have more options on the higher end but is less user friendly at the start.  
+
 
 Desribe 2 technological tools you currently use in your classroom. One of which should be a programming tool (if possible). Include:
 The name of the tool.
